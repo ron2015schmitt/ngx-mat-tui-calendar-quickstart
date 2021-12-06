@@ -1,26 +1,2 @@
-@import "./themes.scss";
-// @import '~@angular/material/prebuilt-themes/deeppurple-amber.css';
-
-
-html,
-body {
-  height: 100%;
-}
-
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji",
-    "Segoe UI Emoji", "Segoe UI Symbol";
-  color: white;
-  box-sizing: border-box;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-
-.content {
-  margin: 0px;
-  padding: 0px;
-}
-
+@import '~@angular/material/prebuilt-themes/deeppurple-amber.css';
 
