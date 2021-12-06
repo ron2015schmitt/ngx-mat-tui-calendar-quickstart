@@ -1,12 +1,12 @@
-# ngx-mat-tui-calendar-demo
+# ngx-mat-tui-calendar-quickstart
 
-This project is a usage demo for the [ngx-mat-tui-calendar](https://github.com/ron2015schmitt/ngx-mat-tui-calendar) Angular library.
+This project is a minimal usage example for the [ngx-mat-tui-calendar](https://github.com/ron2015schmitt/ngx-mat-tui-calendar) Angular library.
 
 # Usage
 
 ```bash
-git clone https://github.com/ron2015schmitt/ngx-mat-tui-calendar-demo
-cd ngx-mat-tui-calendar-demo
+git clone https://github.com/ron2015schmitt/ngx-mat-tui-calendar-quickstart
+cd ngx-mat-tui-calendar-quickstart
 npm install
 ng serve
 ```
