@@ -7,7 +7,7 @@ This project is a minimal usage example for the [ngx-mat-tui-calendar](https://g
 ```bash
 git clone https://github.com/ron2015schmitt/ngx-mat-tui-calendar-quickstart
 cd ngx-mat-tui-calendar-quickstart
-npm install
+npm install --legacy-peer-deps
 ng serve
 ```
 
